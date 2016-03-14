@@ -1,5 +1,4 @@
-// os5.c -- 
-
+// os5.c --
 #include <u.h>
 
 enum {
